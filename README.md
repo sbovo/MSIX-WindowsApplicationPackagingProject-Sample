@@ -1,1 +1,1 @@
-# MSIX-WindowsApplicaztionPackagingProject-Sample
+# MSIX-WindowsApplicationPackagingProject-Sample
